@@ -17,7 +17,9 @@ I was interested in exploring the associated words that would go along with the 
 </figcaption>
 ![](/img/wordcloudLA.png)
 
-Overall, the words associated with the search term are pretty negative. We can see also see a similarity in theme between these word clouds, with the most prominent being politics, drug use, and crime. I think the reason these are similar topics is because these are common things that get brought up when discussing homelessness. What stood out to me in these word clouds was that cities that I chose were included in other cities word clouds. I was surprised because it shows that these cities are somewhat known for a large homeless presence.
+As we can see, the words associated with the search term are pretty negative. We can see also see a similarity in theme between these word clouds, with the most prominent being politics, drug use, and crime. I think the reason these are similar topics is because these are common things that get brought up when discussing homelessness. What stood out to me in these word clouds was that cities that I chose were included in other cities word clouds. I was surprised because it shows that these cities are somewhat known for a large homeless presence.
+
+Overall, it's clear that there is a strong correlation between associated words and location. Most of the large and frequent words had to do with the topics I mentioned earlier, which were politics, drug use, and crime. There were tons of people tweeting about the mayors in their cities, different crimes, as well as names of drugs.
 
 # CSV files
 [Seattle data](./assets/SEA-data.csv)
