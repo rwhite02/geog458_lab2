@@ -9,7 +9,7 @@ I was interested in exploring the associated words that would go along with the 
 Overall, the words associated with the search term are pretty negative. We can see also see a similarity in theme between these word clouds, with the most prominent being politics, drug use, and crime. I think the reason these are similar topics is because these are common things that get brought up when discussing homelessness. What stood out to me in these word clouds was that cities that I chose were included in other cities word clouds. I was surprised because it shows that these cities are somewhat known for a large homeless presence.
 
 Seattla data: 
-[](README.md)
+[](./README.md)
 NYC data: 
 [](assets/NYC-data.csv)
 LA data: 
