@@ -6,10 +6,12 @@ I was interested in exploring the associated words that would go along with the 
 <figcaption align = "center"> 
 <b> Seattle word cloud</b> 
 </figcaption>
+
 ![](/img/wordcloudNYC.png)
 <figcaption align = "center">
 <b> NYC word cloud</b> 
 </figcaption>
+
 ![](/img/wordcloudLA.png)
 <figcaption align = "center">
 <b> LA word cloud</b> 
