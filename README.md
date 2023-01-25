@@ -7,7 +7,7 @@ I was interested in exploring the associated words that would go along with the 
   <b> Seattle word cloud</b>
 </figcaption>
 ![](/img/wordcloudSEA.png)
-image tests
+
 <figcaption align = "center">
   <b> NYC word cloud</b> 
 </figcaption>
